@@ -1,0 +1,42 @@
+/* main.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 50px;
+    padding: 50px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: darkblue;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+p1 {
+    color: darkred;
+    font-size: 20px;
+}
+
+p2 {
+    color: red;
+}
+
+.error {
+    color: darkred;
+    font-weight: bold;
+}
